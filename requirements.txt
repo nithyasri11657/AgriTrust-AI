@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+python-multipart
+pillow
+opencv-python
+numpy
+pandas
+scikit-learn
+matplotlib
+torch
+torchvision
+tqdm
+requests
+python-dotenv
+pymongo
+qrcode
+shap
